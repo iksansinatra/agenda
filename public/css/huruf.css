@@ -1,0 +1,59 @@
+.frWidgetText1{
+    font-size: 12pt;
+    color: white;
+    font-weight: 500;
+}
+
+.frWidgetText2{
+    font-size: 20pt;
+    color: white;
+    font-weight: 500;
+}
+
+.h_card_sidebar1{
+    font-size: 80%;
+    font-weight: 500;
+}
+
+.h_table_head{
+    height: 50px;
+    color: #5f5f5f;
+}
+
+.h_table_body{
+    color: #888888;
+    font-size: 13px;
+    font-weight: 530;
+}
+
+.h_lable{
+    font-size: 80%;
+    color: #a0a0a0;
+    font-weight: 600;
+}
+
+.h_keterangan{
+    font-size: 95%;
+    color: #7f7f7f;
+    font-weight: 400;
+    text-align: justify;
+}
+
+.h_modalhead{
+    font-size: 125%;
+    color: white;
+    font-weight: 800;
+}
+
+.h_pagination{
+    font-size: 80%;
+    font-weight: 600;
+    color: #a0a0a0;
+}
+
+.h_notifikasi{
+    font-size: 110%;
+    color: white;
+    font-weight: 500;
+    text-shadow: 1px 1px 8px #050505;
+}

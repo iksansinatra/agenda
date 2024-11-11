@@ -1,0 +1,151 @@
+
+  .frWidget{
+    padding: 0.5%;
+  }
+
+  .frWidgetSub{
+    border-radius: 5px;
+    
+  }
+
+  .frWidgetSub1{
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+  }
+
+  .frWidgetSub2{
+    padding-left:2%; padding-right:2%;
+    padding-top: 4%; padding-bottom: 4%;
+
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;    
+  }
+
+  .padding1-5{
+    padding : 0.5%;
+    padding-top : 1.5%
+  }
+
+  .hrpagin2{
+    border: 5px solid #cfd8dc;
+  }
+
+  .frameChart{
+    padding : 1.5%;
+    border-radius: 1%;
+  }
+
+  table, td, th {  
+    border: 1px solid #ddd;
+    text-align: left;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+
+  tr:nth-child(even) {
+    background-color: #f7f7f7;
+  }
+
+  .tbl_responsive{
+    overflow-x:auto;
+  }
+
+  .tbl_btn{
+    width: 50px !important;
+  }
+
+  .paginate_btn{
+    width: 40px !important;
+  }
+
+  .hrpagin{
+    border: 10px solid #cfd8dc;
+  }
+
+  .showx{
+    display: block !important;
+    animation: fade_in_show 0.5s
+  }
+
+  .hidex{
+    display: none;
+  }
+
+  .margin_input{
+    margin-bottom: 1.5% !important;
+  }
+
+  .bgku{ 
+    background: url('../img/background.jpg'); 
+    /* background-image: linear-gradient(to left, #4b3745, #613c58, #572f50, #4d1a4a, #3a0d4d); */
+    /* background-image: url('img/bg.png'); */
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    min-height: 100%;
+    width: 100%;
+    height: auto;
+    position: fixed;
+    top: 0;
+    left: 0;
+  }
+
+  .formLogin{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    border-radius: 2%;
+  }
+
+  .alertku{
+    padding: 3% 0% 3% 0% ;
+    background-color: rgb(25, 99, 97);
+    color: white;
+    font-weight: 500;
+    text-align: center;
+  }
+
+  .putihTrans{
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+.transAbu{
+  background-color: #2c2c2c78;
+  color: white;
+}
+
+.frame_cari{
+  padding-left: 1%;
+  padding-right: 1%;
+}
+
+.h_fotter_title{
+  font-size: 80%;
+  /* font-weight: bold; */
+  font-style: italic;
+  /* margin-left: 15px; */
+}
+
+.orageGrad{
+  background-image: linear-gradient(to top, #ffe8d4, #ffdec1, #ffc18e, #ffb171, #ffa048);
+}
+
+.margin_btn{
+  margin-bottom: 1.5% !important;
+}
+
+.tbl_btn{
+  width: 50px !important;
+}
