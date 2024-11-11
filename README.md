@@ -1,4 +1,4 @@
-# marina_client
+# Sistem Informasi Agenda Pimpinan Daerah Kabupaten Konawe Selatan
 
 ## Project setup
 ```
